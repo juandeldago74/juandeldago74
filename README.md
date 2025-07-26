@@ -10,14 +10,14 @@
 ### 🌠 **About Me**
 - 🚀 **Current Project**: [Cosmologix]([https://github.com/YOUR-GITHUB](https://x.com/CosmologixTools)) *(a futuristic platform in progress!)*
 - 🛠 **Tech Stack**: Python | FastAPI | JavaScript | Next.js
-- 📚 **Learning**: Golang
+- 📚 **Learning**: Golang, Rust
 - 🧩 **Skills**: Backend development, modern frontend (shadcn, Tailwind), scraping, APIs, databases
 
 ---
 
 ### ⚡ **Technologies & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,nextjs,html,css,tailwind,go,docker,git,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,rust,fastapi,js,nextjs,html,css,tailwind,go,docker,git,linux,postgres" />
 </p>
 
 ---

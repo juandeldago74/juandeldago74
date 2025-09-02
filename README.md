@@ -1,14 +1,12 @@
 <!-- HEADER WITH ANIMATED TEXT -->
 <h1 align="center">🌌 Welcome to the Cosmologix Universe!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Juanxyzz;Backend+%7C+Frontend+%7C+Security;Creator+of+Cosmologix;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+
 
 ---
 
 ### 🌠 **About Me**
-- 🚀 **Current Project**: [Cosmologix]([https://github.com/YOUR-GITHUB](https://x.com/CosmologixTools)) *(a futuristic platform in progress!)*
+- 🚀 **Current Project**: [Collectible dev]([https://github.com/juandeldago74](https://x.com/trouvemoi1nom))
 - 🛠 **Tech Stack**: Python | FastAPI | JavaScript | Next.js
 - 📚 **Learning**: Golang, Rust
 - 🧩 **Skills**: Backend development, modern frontend (shadcn, Tailwind), scraping, APIs, databases

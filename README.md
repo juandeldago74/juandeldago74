@@ -7,8 +7,8 @@
 
 ### 🌠 **About Me**
 - 🚀 **Current Project**: [Collectible dev]([https://github.com/juandeldago74](https://x.com/trouvemoi1nom))
-- 🛠 **Tech Stack**: Python | FastAPI | JavaScript | Next.js
-- 📚 **Learning**: Golang, Rust
+- 🛠 **Tech Stack**: Golang | Python | FastAPI | JavaScript | Next.js
+- 📚 **Learning**: Rust
 - 🧩 **Skills**: Backend development, modern frontend (shadcn, Tailwind), scraping, APIs, databases
 
 ---

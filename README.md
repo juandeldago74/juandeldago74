@@ -6,7 +6,7 @@
 ---
 
 ### 🌠 **About Me**
-- 🚀 **Current Project**: [Collectible dev]([https://github.com/juandeldago74](https://x.com/trouvemoi1nom))
+- 🚀 **Current Project**: [PoryAio]([https://www.poryaio.com/])
 - 🛠 **Tech Stack**: Golang | Python | FastAPI | JavaScript | Next.js
 - 📚 **Learning**: Rust
 - 🧩 **Skills**: Backend development, modern frontend (shadcn, Tailwind), scraping, APIs, databases
